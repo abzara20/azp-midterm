@@ -7,9 +7,8 @@ import GameCard from "../components/gameCard";
 const GamesPage = () => {
   return (
     <React.Fragment>
-      <Nav></Nav>
-
       <Container>
+        <Nav></Nav>
         <Header as="h1">GAMES</Header>
         <Grid columns="3">
           <Grid.Column>

@@ -7,9 +7,8 @@ import Nav from "../components/nav";
 const HomePage = () => {
   return (
     <React.Fragment>
-      <Nav></Nav>
-
       <Container>
+        <Nav></Nav>
         <Segment textAlign="center">
           <Header as="h1">HOME</Header>
           <p>Some text that needs not readen</p>
