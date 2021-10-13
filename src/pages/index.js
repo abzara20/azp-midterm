@@ -11,7 +11,7 @@ const HomePage = () => {
 
       <Container>
         <Segment textAlign="center">
-          <Header>HOME</Header>
+          <Header as="h1">HOME</Header>
           <p>Some text that needs not readen</p>
           <Button color="green">Join Now!</Button>
         </Segment>

@@ -11,7 +11,7 @@ const Nav = () => {
           <Menu.Item icon="home"></Menu.Item>
         </Link>
 
-        <Link to="/game">
+        <Link to="/games">
           <Menu.Item icon="gamepad"></Menu.Item>
         </Link>
         <Link to="/contact">
