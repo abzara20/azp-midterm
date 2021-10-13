@@ -15,6 +15,9 @@ const HomePage = () => {
           <p>Some text that needs not readen</p>
           <Button color="green">Join Now!</Button>
         </Segment>
+
+        <Header as="h3">News</Header>
+        <p>Some more random text</p>
       </Container>
     </React.Fragment>
   );
